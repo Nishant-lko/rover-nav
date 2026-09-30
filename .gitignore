@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.cache
+training/dataset/images/
+training/dataset/labels/
+training/runs/**/weights/
+*.mp4
+*.mpg

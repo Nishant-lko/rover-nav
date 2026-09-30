@@ -1,0 +1,20 @@
+path: .
+
+train: images/train
+val: images/val
+
+nc: 12
+
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: bus
+  5: bench
+  6: dog
+  7: backpack
+  8: handbag
+  9: sports_ball
+  10: bottle
+  11: tv
